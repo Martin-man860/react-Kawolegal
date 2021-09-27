@@ -1,0 +1,120 @@
+.hero-image{
+    background-image: linear-gradient( rgba(73, 0, 0, 0.700), rgba(73, 0, 0, 0.700)), url(../image/xps.jpg);
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 90vh;
+}
+
+.navedit {
+    background-color: none;
+}
+nav ul {
+    margin-right: 50px;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;  
+    padding-left: 3rem;   
+    margin-top: 0px;
+}
+
+ul li a {
+    color: rgb(175, 6, 0);
+}
+
+ul li a:hover {
+    text-decoration: none;
+    color: rgb(136, 69, 69);
+}
+
+.active-nav {
+    right: 25rem;
+    position: absolute;
+    border: 4px solid rgb(117, 1, 1);
+    padding-left: 16px;
+    padding-right: 15px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.homefooter {
+    color: rgb(230, 202, 202);
+    margin-top: 2.5rem;
+    padding: 20px 0;
+    padding-left: 10rem;
+    background-color: rgb(73, 0, 0);
+}
+
+.content h1,p {
+    color: #fff;
+    font-size: 30px;
+    transform: translate(0,9rem);
+}
+
+.content h1 {
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+.content p {
+    line-height: 2rem;
+}
+
+.buttonsetup button {
+    height: 50px;
+    width: 170px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    background-color: rgb(0, 195, 255);
+    text-align: center;
+    letter-spacing: 1.25px;
+    font-weight: bold;
+    font-size: larger;
+    cursor: pointer;
+    position: absolute;
+    left: 50px;
+    top: 120px;
+    transform: translate(40rem,20rem);
+}
+
+.buttonsetup button:hover {
+    opacity: 90%;
+}
+
+.homefooter {
+    color: rgb(230, 202, 202);
+    margin-top: 2.5rem;
+    padding: 20px 0;
+    padding-left: 10rem;
+    background-color: rgb(73, 0, 0);
+}
+
+.logo .fa {
+    /* padding-bottom: 10px; */
+    position: absolute;
+    padding-left: 50px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.logo .fa-twitter {
+    left: 4rem;
+}
+
+.logo .fa-linkedin {
+    left: 8rem;
+}
+
+.logo .fa-instagram {
+    left: 12rem;
+}
+
+.logo .fa:hover {
+    opacity: 50%;
+    font-size: 40px;
+}

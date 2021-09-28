@@ -1,5 +1,5 @@
 import './App.css';
-import  Router from "./Component/Router";
+import  Router from "./Router.js";
 
 
 

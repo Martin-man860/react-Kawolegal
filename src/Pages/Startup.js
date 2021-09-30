@@ -69,10 +69,10 @@ function Startup() {
                     <h3>
                       <a href="">Think and Zoom</a>
                   </h3>
-                    {/* <p className="one">
+                    <p className="one">
                       Providing solutions for the visually impaired, such as
                       mind-controlled zooming, and wearable controlled zooming.
-                    </p> */}
+                    </p>
                     <button className="card-button">See full details</button>
                   </div>
                 </div>
@@ -95,11 +95,11 @@ function Startup() {
                     <h3>
                       <a href="">Slatecube</a>
                     </h3>
-                    {/* <p className="one">
+                    <p className="one">
                       Slatecube helps job seekers develop job-relevant skills,
                       gain work experience, and land well paying jobs through
                       world-className up-skilling courses and virtual internships
-                    </p> */}
+                    </p>
                     <button className="card-button">See full details</button>
                   </div>
                 </div>
@@ -123,10 +123,10 @@ function Startup() {
                     <h3>
                       <a href="">Sleekjob Academy</a>
                     </h3>
-                    {/* <p className="one">
+                    <p className="one">
                       Trains world className software developers in Ghana and
                       matches them to employment opportunities
-                    </p> */}
+                    </p>
                     <button className="card-button">See full details</button>
                   </div>
                 </div>

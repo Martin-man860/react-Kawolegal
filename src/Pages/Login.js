@@ -38,7 +38,7 @@ function Login () {
                       <Link to="/">Home</Link>
                     </li>
                     <li>
-                      <Link to="/startups">All Startup</Link>
+                      <Link to="/startup">All Startup</Link>
                     </li>
                     <li>
                       <Link to="/register">Register</Link>

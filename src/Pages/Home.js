@@ -35,7 +35,7 @@ function Home() {
   
           <div className="content">
             <h1 className="text-center">KAWOLEGAL</h1>
-            <p className="text-center">
+            <p className="text-center par">
               A collaborative ecosystem for problem <br />
               solvers and support for startups.
             </p>

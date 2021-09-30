@@ -49,7 +49,7 @@ ul li a:hover {
     background-color: rgb(73, 0, 0);
 }
 
-.content h1,p {
+.content  h1, .par {
     color: #fff;
     font-size: 30px;
     transform: translate(0,9rem);

@@ -51,7 +51,7 @@ function Register() {
                       <Link to="/">Home</Link>
                     </li>
                     <li>
-                      <Link to="/startups">All Startup</Link>
+                      <Link to="/startup">All Startup</Link>
                     </li>
                     <li className="active-link">
                       <Link to="/register">Register</Link>
